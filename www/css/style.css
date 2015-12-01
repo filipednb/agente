@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.scroll-content {
+  position: relative;
+}
+
+div.login-form {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
